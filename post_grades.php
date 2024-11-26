@@ -15,7 +15,7 @@
 	<p><?php 
 		$servername = "localhost";
 		$username = "root"; // Mysql username
-		$password = "1234"; // Mysql Password (Use your specific password)
+		$password = "1234"; // Mysql Password 
 
 		$dbname = "student_grades"; // database name
 		 
