@@ -25,7 +25,7 @@
         <?php
         $servername = "localhost";
         $username = "root"; // Mysql username
-        $password = "a3uytvuk"; // Mysql Password
+        $password = "1234"; // Mysql Password
         $dbname = "student_grades"; // Database name
 
         // Create connection
